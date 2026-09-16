@@ -21,7 +21,7 @@ We explore,  Pipe: It is a communication mechanism that allows two related proce
 | `close()` | Closes the read or write end of the pipe and releases resources. |
 
 ## SOURCE CODE :
-**File :** [exp6.c](https://github.com/Balakrishna-0907/osLab/blob/4528c752ceaf50895e4d67e10db643bf9d91ba78/ex06/exp6.c)
+**File :** [exp6.c](https://github.com/narmadhau2527/112514012osLab/blob/c54cea2b58c01def49cfb72dda4f23877aea9b5d/ex06/exp6.c)
 
 ## COMPILATION :
 
