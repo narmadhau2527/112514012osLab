@@ -32,7 +32,7 @@ We explore, Signal: It is a software interrupt used by the Linux operating syste
 
 
 ## SOURCE CODE :
-**File :** [signal_raise.c](https://github.com/Balakrishna-0907/osLab/blob/74e7988d227421bee56b7768c4814fccc1bb5d7c/ex05/signal_raise.c)
+**File :** [signal_raise.c](https://github.com/narmadhau2527/112514012osLab/blob/bd7081c741a3aebee948e26ff5a31aa1e0db9829/ex05/singnal_raise.c)
 
 ## COMPILATION :
 
