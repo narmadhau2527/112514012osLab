@@ -37,4 +37,4 @@ gcc fileOperation.c -o fileOperation
 ```
 
 ## OUTPUT :
-![Output for Experiment 3](https://github.com/narmadhau2527/112514012osLab/blob/ba12c96145f4b7fceabeac0a51ddf652a4689f81/ex03/output3.png)
+![Output for Experiment 3](https://github.com/narmadhau2527/112514012osLab/blob/de9a7a520de4c133fb8fcc623331bb9187fb9391/ex03/output3.png)
