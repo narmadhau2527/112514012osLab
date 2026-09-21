@@ -54,4 +54,4 @@ gcc waitDemo.c -o waitDemo
 ```
 
 ## OUTPUT :
-![Output for Experiment 4_2](https://github.com/narmadhau2527/112514012osLab/blob/2e63d5c9a0133aa27e8eeba958ea2a225dd881c8/ex04/processCreation/output4.png)
+![Output for Experiment 4_2](https://github.com/narmadhau2527/112514012osLab/blob/dddb83996ebf2748e3a96f5bfa40f94eca2bf8bd/ex04/process%20Management/output4_ii.png)
