@@ -39,4 +39,4 @@ Step 2: ./checkfile.sh file1.txt testdir sample.txt
 ```
 
 ## OUTPUT :
-![Output for Experiment 2](https://github.com/narmadhau2527/112514012osLab/blob/7a63ea63f01ae75347b6dd732ff63f8da0c903fa/ex02/output2.png)
+![Output for Experiment 2](https://github.com/narmadhau2527/112514012osLab/blob/970b32211d18e39499b41680ab37bba771986343/ex02/output2.png)
