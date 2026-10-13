@@ -18,7 +18,7 @@ The programs cover fundamental Operating System concepts including Linux command
 | 6 | [INTER-PROCESS COMMUNICATION USING PIPES AND FIFO](https://github.com/narmadhau2527/112514012osLab/blob/main/ex06/exp6.c) | To implement inter-process communication using unnamed pipes and named pipes/FIFO and exchange data between processes. |
 | 7 | [INTER-PROCESS COMMUNICATION USING SHARED MEMORY](https://github.com/narmadhau2527/112514012osLab/blob/main/ex07/exp7.c) | To demonstrate inter-process communication using shared memory segments and implement operations to create, access, modify, and release shared memory resources. |
 | 8 | [CPU SCHEDULING ALGORITHMS](https://github.com/narmadhau2527/112514012osLab/blob/main/ex08/exp8.c) | To simulate CPU scheduling algorithms and compare their performance using measures such as waiting time and turnaround time. |
-| 9 | [MEMORY MANAGEMENT – PAGE REPLACEMENT ALGORITHMS](https://github.com/112514009/osLab/tree/0d214bc105ed617d81bc9b23966c0036b9d3f353/Exp09) | To simulate page replacement algorithms such as FIFO, LRU, and Optimal. |
+| 9 | [MEMORY MANAGEMENT – PAGE REPLACEMENT ALGORITHMS](https://github.com/narmadhau2527/112514012osLab/blob/main/ex09/exp9.c) | To simulate page replacement algorithms such as FIFO, LRU, and Optimal. |
 | 10 | [LINUX FILE PERMISSIONS AND FILE INFORMATION](https://github.com/112514009/osLab/tree/585d1989e3ff5a714e9c51a65218671d9effe85c/Exp10) | To study Linux file permissions and retrieve file metadata using `stat()` and related system calls. |
 
 ---
