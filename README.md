@@ -10,7 +10,7 @@ The programs cover fundamental Operating System concepts including Linux command
 
 | Program No. | Program Title | Aim of Program |
 |---|---|---|
-| 1 | [BASIC LINUX COMMANDS](https://github.com/112514009/osLab/tree/main/Exp01) | To familiarize students with basic Linux commands for file, directory, and system management, compare them with equivalent DOS commands, and execute them in a Linux environment. |
+| 1 |[BASICLINUXCOMMANDS](https://github.com/narmadhau2527/112514012osLab/blob/main/ex01/exp1.c) | To familiarize students with basic Linux commands for file, directory, and system management, compare them with equivalent DOS commands, and execute them in a Linux environment. |
 | 2 | [SHELL SCRIPTING AND COMMAND-LINE ARGUMENTS](https://github.com/112514009/osLab/tree/6f0c8b0b2c8cdebf91ff87ced8cef429109f735e/Exp02) | To develop shell scripts for performing basic arithmetic, file handling, decision making, loops, and command-line argument processing using the Bash shell. |
 | 3 | [LINUX FILE AND DIRECTORY OPERATIONS USING C SYSTEM CALLS](https://github.com/112514009/osLab/tree/0299c4d7fb181bfe6bee7fa61c05447d047abc99/Exp03) | To implement basic file and directory operations using Linux system calls such as `open()`, `read()`, `write()`, `close()`, `stat()`, `mkdir()`, `opendir()`, and `readdir()`. |
 | 4 | [PROCESS CREATION AND MANAGEMENT USING LINUX SYSTEM CALLS](https://github.com/112514009/osLab/tree/0299c4d7fb181bfe6bee7fa61c05447d047abc99/Exp04) | To study process creation, execution, and synchronization using Linux process system calls and understand parent-child process relationships. |
